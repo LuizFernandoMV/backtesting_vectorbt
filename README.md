@@ -11,10 +11,12 @@ In this project, an investment strategy based on financial news sentiment analys
 
 ### Key components of the project:
 
-Collection and processing of financial data and news
 Sentiment analysis of financial news headlines
+
 Implementation of a sentiment-based trading strategy
+
 Backtesting of the strategy and comparison with Buy and Hold
+
 Analysis of performance and risk metrics
 
 ### Technologies Used
